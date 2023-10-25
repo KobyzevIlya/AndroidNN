@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">hw1</string>
+    <string name="color_hint">Введите цвет (red, green, blue)</string>
+    <string name="button_text">Ввести цвет</string>
+</resources>
